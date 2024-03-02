@@ -63,7 +63,7 @@ rustlings list
 |     `traits`      |   5/5    |     [:link:](https://github.com/igefined/rustlings-solution/tree/main/exercises/15_traits)      |
 |    `lifetimes`    |   3/3    |    [:link:](https://github.com/igefined/rustlings-solution/tree/main/exercises/16_lifetimes)    |
 |      `tests`      |   4/4    |      [:link:](https://github.com/igefined/rustlings-solution/tree/main/exercises/17_tests)      |
-|    `iterators`    |   0/5    |    [:link:](https://github.com/igefined/rustlings-solution/tree/main/exercises/18_iterators)    |
+|    `iterators`    |   5/5    |    [:link:](https://github.com/igefined/rustlings-solution/tree/main/exercises/18_iterators)    |
 |      `quiz3`      |   1/1    |      [:link:](https://github.com/igefined/rustlings-solution/tree/main/exercises/quiz3.rs)      |
 | `smart_pointers`  |   0/4    | [:link:](https://github.com/igefined/rustlings-solution/tree/main/exercises/19_smart_pointers)  |
 |     `threads`     |   0/3    |     [:link:](https://github.com/igefined/rustlings-solution/tree/main/exercises/20_threads)     |
